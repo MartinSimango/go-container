@@ -1,0 +1,1 @@
+sudo ip -n red link del veth-red
